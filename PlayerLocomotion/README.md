@@ -2,7 +2,7 @@
 **Status**: **`Finished (Requires Update)`**
 
 # Overview
-A system that allows a Player to control a game character.
+A system that allows a Player to control an in-game character.
 
 # Notes
 **Known Issues:**
