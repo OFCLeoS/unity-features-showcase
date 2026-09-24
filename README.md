@@ -1,2 +1,6 @@
 # unity-feature-showcase
-Selected Unity systems and features developed across personal projects in C#.
+A collection of selected systems and features I have developed in Unity using C#, extracted from various personal projects.
+
+This repository is currently under construction. The code is being progressively reorganized and documented for standalone presentation.
+
+The repository does not contain a complete Unity project; scripts are provided primarily to demonstrate implementation and architecture.
