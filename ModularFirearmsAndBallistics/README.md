@@ -6,7 +6,7 @@
 - A ballistics system to allow said firearms to function.
 
 # Notes
-The system used to function without issues, but recently got an overhaul of the reload system, which requires further testing. 
+The system used to function without issues, but recently got an overhaul of the reload feature, which requires further testing. 
 
 **To do:**
 - Test staged reloads system
